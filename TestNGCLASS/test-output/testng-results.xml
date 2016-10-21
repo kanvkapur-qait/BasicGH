@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12381" started-at="2016-10-18T11:31:37Z" finished-at="2016-10-18T11:31:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12381" started-at="2016-10-18T11:31:37Z" finished-at="2016-10-18T11:31:49Z">
+      <class name="session14.Tatoc">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:session14.Tatoc@3c09711b]" name="openBrowser" duration-ms="7270" started-at="2016-10-18T17:01:37Z" finished-at="2016-10-18T17:01:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="gategrid()[pri:0, instance:session14.Tatoc@3c09711b]" name="gategrid" duration-ms="365" started-at="2016-10-18T17:01:44Z" finished-at="2016-10-18T17:01:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gategrid -->
+        <test-method status="PASS" signature="framedungeon()[pri:0, instance:session14.Tatoc@3c09711b]" name="framedungeon" duration-ms="1695" started-at="2016-10-18T17:01:44Z" finished-at="2016-10-18T17:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- framedungeon -->
+        <test-method status="PASS" signature="draganddrop()[pri:0, instance:session14.Tatoc@3c09711b]" name="draganddrop" duration-ms="624" started-at="2016-10-18T17:01:46Z" finished-at="2016-10-18T17:01:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- draganddrop -->
+        <test-method status="PASS" signature="popupwindow()[pri:0, instance:session14.Tatoc@3c09711b]" name="popupwindow" duration-ms="1842" started-at="2016-10-18T17:01:47Z" finished-at="2016-10-18T17:01:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- popupwindow -->
+        <test-method status="PASS" signature="cookiehandllng()[pri:0, instance:session14.Tatoc@3c09711b]" name="cookiehandllng" duration-ms="542" started-at="2016-10-18T17:01:49Z" finished-at="2016-10-18T17:01:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookiehandllng -->
+      </class> <!-- session14.Tatoc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
